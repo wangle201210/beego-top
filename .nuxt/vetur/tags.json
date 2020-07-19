@@ -1,0 +1,188 @@
+{
+  "ArticlePrevNext": {
+    "description": "Auto imported from components/ArticlePrevNext.vue"
+  },
+  "LazyArticlePrevNext": {
+    "description": "Auto imported from components/ArticlePrevNext.vue"
+  },
+  "ArticleToc": {
+    "description": "Auto imported from components/ArticleToc.vue"
+  },
+  "LazyArticleToc": {
+    "description": "Auto imported from components/ArticleToc.vue"
+  },
+  "EditOnGithub": {
+    "description": "Auto imported from components/EditOnGithub.vue"
+  },
+  "LazyEditOnGithub": {
+    "description": "Auto imported from components/EditOnGithub.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "TheFooter": {
+    "description": "Auto imported from components/TheFooter.vue"
+  },
+  "LazyTheFooter": {
+    "description": "Auto imported from components/TheFooter.vue"
+  },
+  "BaseAlert": {
+    "description": "Auto imported from components/global/bases/BaseAlert.vue"
+  },
+  "LazyBaseAlert": {
+    "description": "Auto imported from components/global/bases/BaseAlert.vue"
+  },
+  "BaseList": {
+    "description": "Auto imported from components/global/bases/BaseList.vue"
+  },
+  "LazyBaseList": {
+    "description": "Auto imported from components/global/bases/BaseList.vue"
+  },
+  "CodeBlock": {
+    "description": "Auto imported from components/global/bases/CodeBlock.vue"
+  },
+  "LazyCodeBlock": {
+    "description": "Auto imported from components/global/bases/CodeBlock.vue"
+  },
+  "CodeGroup": {
+    "description": "Auto imported from components/global/bases/CodeGroup.vue"
+  },
+  "LazyCodeGroup": {
+    "description": "Auto imported from components/global/bases/CodeGroup.vue"
+  },
+  "CodeSandbox": {
+    "description": "Auto imported from components/global/bases/CodeSandbox.vue"
+  },
+  "LazyCodeSandbox": {
+    "description": "Auto imported from components/global/bases/CodeSandbox.vue"
+  },
+  "ColorSwitcher": {
+    "description": "Auto imported from components/global/bases/ColorSwitcher.vue"
+  },
+  "LazyColorSwitcher": {
+    "description": "Auto imported from components/global/bases/ColorSwitcher.vue"
+  },
+  "IconAlert": {
+    "description": "Auto imported from components/global/icons/IconAlert.vue"
+  },
+  "LazyIconAlert": {
+    "description": "Auto imported from components/global/icons/IconAlert.vue"
+  },
+  "IconArrowLeft": {
+    "description": "Auto imported from components/global/icons/IconArrowLeft.vue"
+  },
+  "LazyIconArrowLeft": {
+    "description": "Auto imported from components/global/icons/IconArrowLeft.vue"
+  },
+  "IconArrowRight": {
+    "description": "Auto imported from components/global/icons/IconArrowRight.vue"
+  },
+  "LazyIconArrowRight": {
+    "description": "Auto imported from components/global/icons/IconArrowRight.vue"
+  },
+  "IconCheck": {
+    "description": "Auto imported from components/global/icons/IconCheck.vue"
+  },
+  "LazyIconCheck": {
+    "description": "Auto imported from components/global/icons/IconCheck.vue"
+  },
+  "IconChevronRight": {
+    "description": "Auto imported from components/global/icons/IconChevronRight.vue"
+  },
+  "LazyIconChevronRight": {
+    "description": "Auto imported from components/global/icons/IconChevronRight.vue"
+  },
+  "IconClose": {
+    "description": "Auto imported from components/global/icons/IconClose.vue"
+  },
+  "LazyIconClose": {
+    "description": "Auto imported from components/global/icons/IconClose.vue"
+  },
+  "IconExternalLink": {
+    "description": "Auto imported from components/global/icons/IconExternalLink.vue"
+  },
+  "LazyIconExternalLink": {
+    "description": "Auto imported from components/global/icons/IconExternalLink.vue"
+  },
+  "IconGithub": {
+    "description": "Auto imported from components/global/icons/IconGithub.vue"
+  },
+  "LazyIconGithub": {
+    "description": "Auto imported from components/global/icons/IconGithub.vue"
+  },
+  "IconInfo": {
+    "description": "Auto imported from components/global/icons/IconInfo.vue"
+  },
+  "LazyIconInfo": {
+    "description": "Auto imported from components/global/icons/IconInfo.vue"
+  },
+  "IconLogo": {
+    "description": "Auto imported from components/global/icons/IconLogo.vue"
+  },
+  "LazyIconLogo": {
+    "description": "Auto imported from components/global/icons/IconLogo.vue"
+  },
+  "IconLogoDark": {
+    "description": "Auto imported from components/global/icons/IconLogoDark.vue"
+  },
+  "LazyIconLogoDark": {
+    "description": "Auto imported from components/global/icons/IconLogoDark.vue"
+  },
+  "IconMenu": {
+    "description": "Auto imported from components/global/icons/IconMenu.vue"
+  },
+  "LazyIconMenu": {
+    "description": "Auto imported from components/global/icons/IconMenu.vue"
+  },
+  "IconMoon": {
+    "description": "Auto imported from components/global/icons/IconMoon.vue"
+  },
+  "LazyIconMoon": {
+    "description": "Auto imported from components/global/icons/IconMoon.vue"
+  },
+  "IconNuxt": {
+    "description": "Auto imported from components/global/icons/IconNuxt.vue"
+  },
+  "LazyIconNuxt": {
+    "description": "Auto imported from components/global/icons/IconNuxt.vue"
+  },
+  "IconSearch": {
+    "description": "Auto imported from components/global/icons/IconSearch.vue"
+  },
+  "LazyIconSearch": {
+    "description": "Auto imported from components/global/icons/IconSearch.vue"
+  },
+  "IconSun": {
+    "description": "Auto imported from components/global/icons/IconSun.vue"
+  },
+  "LazyIconSun": {
+    "description": "Auto imported from components/global/icons/IconSun.vue"
+  },
+  "IconTranslate": {
+    "description": "Auto imported from components/global/icons/IconTranslate.vue"
+  },
+  "LazyIconTranslate": {
+    "description": "Auto imported from components/global/icons/IconTranslate.vue"
+  },
+  "IconTwitter": {
+    "description": "Auto imported from components/global/icons/IconTwitter.vue"
+  },
+  "LazyIconTwitter": {
+    "description": "Auto imported from components/global/icons/IconTwitter.vue"
+  },
+  "IconWebsite": {
+    "description": "Auto imported from components/global/icons/IconWebsite.vue"
+  },
+  "LazyIconWebsite": {
+    "description": "Auto imported from components/global/icons/IconWebsite.vue"
+  },
+  "IconX": {
+    "description": "Auto imported from components/global/icons/IconX.vue"
+  },
+  "LazyIconX": {
+    "description": "Auto imported from components/global/icons/IconX.vue"
+  }
+}

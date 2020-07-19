@@ -1,0 +1,30 @@
+[
+  {
+    "name": "slug___en",
+    "path": "/en/:slug",
+    "component": "/Users/bofeng/go/src/beego-top/pages/_slug/index.vue",
+    "chunkName": "pages/_slug/index",
+    "_name": "_488c6e16"
+  },
+  {
+    "name": "slug-docs___en",
+    "path": "/en/:slug/docs",
+    "component": "/Users/bofeng/go/src/beego-top/pages/_slug/docs.vue",
+    "chunkName": "pages/_slug/docs",
+    "_name": "_65131b68"
+  },
+  {
+    "name": "slug___ch",
+    "path": "/:slug",
+    "component": "/Users/bofeng/go/src/beego-top/pages/_slug/index.vue",
+    "chunkName": "pages/_slug/index",
+    "_name": "_488c6e16"
+  },
+  {
+    "name": "slug-docs___ch",
+    "path": "/:slug/docs",
+    "component": "/Users/bofeng/go/src/beego-top/pages/_slug/docs.vue",
+    "chunkName": "pages/_slug/docs",
+    "_name": "_65131b68"
+  }
+]
