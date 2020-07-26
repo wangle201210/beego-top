@@ -1,2 +1,2 @@
 # beego-top
-beego top website
+beego-top
